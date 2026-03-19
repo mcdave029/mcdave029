@@ -23,21 +23,14 @@ Senior software engineer with 9+ years building production fintech and e-commerc
 
 ### Tech Stack
 
-**Backend:** Ruby on Rails, GraphQL, REST APIs, Sidekiq
-**Frontend:** TypeScript, React, Vue.js
-**Mobile:** iOS (SwiftUI, Objective-C)
-**Databases:** PostgreSQL, MySQL, Redis
-**Cloud & Infra:** AWS (EC2, RDS, S3, Lambda, CloudFront), Linux, NGINX, CI/CD
-**Practices:** TDD, Code Reviews, Service Object Patterns
-
----
-
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mcdave029&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcdave029&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
-</p>
+| | |
+|---|---|
+| **Backend** | Ruby on Rails, GraphQL, REST APIs, Sidekiq |
+| **Frontend** | TypeScript, React, Vue.js |
+| **Mobile** | iOS (SwiftUI, Objective-C) |
+| **Databases** | PostgreSQL, MySQL, Redis |
+| **Cloud & Infra** | AWS (EC2, RDS, S3, Lambda, CloudFront), Linux, NGINX, CI/CD |
+| **Practices** | TDD, Code Reviews, Service Object Patterns |
 
 ---
 
